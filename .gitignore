@@ -1,0 +1,9 @@
+# composer
+composer.phar
+/vendor/
+
+# windows
+Thumbs.db
+
+# OSx
+.DS_Store
