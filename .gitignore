@@ -10,3 +10,6 @@ Thumbs.db
 
 # php-cs-fixer
 .php_cs.cache
+
+# aliyun htttps validation
+.well-known
