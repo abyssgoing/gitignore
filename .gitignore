@@ -13,3 +13,9 @@ Thumbs.db
 
 # aliyun htttps validation
 .well-known
+
+# ctags extension
+.tags
+
+# laravel env
+.env
