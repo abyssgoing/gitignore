@@ -20,3 +20,7 @@ Thumbs.db
 
 # laravel env
 .env
+
+# miniprogram
+dist/
+node_modules/
