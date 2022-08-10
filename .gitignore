@@ -24,3 +24,6 @@ Thumbs.db
 # miniprogram
 dist/
 node_modules/
+
+# uniapp 
+.hbuilderx/
