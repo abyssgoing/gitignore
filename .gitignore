@@ -22,8 +22,8 @@ Thumbs.db
 .env
 
 # miniprogram
-dist/
-node_modules/
+dist
+node_modules
 
 # uniapp 
 .hbuilderx/
